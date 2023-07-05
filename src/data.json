@@ -1,0 +1,1203 @@
+"FRESH JUICE": [
+
+    {
+        "name": "PINEAPPLE JUICE",
+        "price": "70"
+    },
+    {
+        "name": "ORANGE JUICE",
+        "price": "70"
+    },
+    {
+        "name": "SHAMAM JUICE",
+        "price": "70"
+    },
+    {
+        "name": "GRAPES JUICE",
+        "price": "70"
+    },
+    {
+        "name": "WATERMELON JUICE",
+        "price": "50"
+    },
+    {
+        "name": "MANGO JUICE",
+        "price": "70"
+    },
+    {
+        "name": "ANAAR JUICE",
+        "price": "120"
+    },
+    {
+        "name": "MIXED JUICE",
+        "price": "120"
+    }
+],
+"FRESH LIME": [
+    {
+        "name": "LIME",
+        "price": "30"
+    },
+    {
+        "name": "LIME SODA",
+        "price": "40"
+    },
+    {
+        "name": "MINT LIME SODA",
+        "price": "45"
+    },
+    {
+        "name": "BLUE LIME",
+        "price": "35"
+    },
+    {
+        "name": "ORANGE LIME",
+        "price": "35"
+    },
+    {
+        "name": "GRAPE LIME",
+        "price": "35"
+    },
+    {
+        "name": "PINEAPPLE LIME",
+        "price": "35"
+    },
+    {
+        "name": "MINT LIME ",
+        "price": "35"
+    },
+    {
+        "name": "STRAWBERRY LIME",
+        "price": "35"
+    }
+],
+"LIME COOLER": [
+    {
+        "name": "PINEAPPLE LIME COOLER",
+        "price": "80"
+    },
+    {
+        "name": "MANGO LIME COOLER",
+        "price": "80"
+    },
+    {
+        "name": "ORANGE LIME COOLER",
+        "price": "80"
+    },
+],
+"DRY FRUIT SHAKE": [
+    {
+        "name": "MIXED DRY FRUIT SHAKE",
+        "price": "130"
+    },
+    {
+        "name": "DRY CASHEW NUT SHAKE",
+        "price": "130"
+    },
+    {
+        "name": "BADAM SHAKE",
+        "price": "110"
+    },
+    {
+        "name": "DATES SHAKE",
+        "price": "100"
+    },
+    {
+        "name": "SPICY SPECIAL SHAKE",
+        "price": "150"
+    },
+],
+"SHARJA SHAKE":[
+    {
+        "name": "VANILA SHAKE",
+        "price": "130"
+    },
+    {
+        "name": "STRAWBERRY SHAKE",
+        "price": "100"
+    },
+    {
+        "name": "PISTA SHAKE",
+        "price": "100"
+    },
+    {
+        "name": "BUTTER SCOTCH SHAKE",
+        "price": "100"
+    },
+    {
+        "name": "CHOCOLATE SHAKE",
+        "price": "100"
+    },
+
+],
+"MOJITOS":[
+
+    {
+        "name": " BLUEBERRY MOJITO",
+        "price": "80"
+    },
+    {
+        "name": "GREEN APPLE MOJITO",
+        "price": "80"
+    },
+    {
+        "name": "OCEAN BLUE MOJITO",
+        "price": "80"
+    },
+    {
+        "name": "PINEAPPLE MOJITO",
+        "price": "80"
+    },
+    {
+        "name": "STRAWBERRY MOJITO",
+        "price": "80"
+    },
+    {
+        "name": "ORANGE MOJITO",
+        "price": "80"
+    },
+    {
+        "name": "WATERMELON JUICE MOJITO",
+        "price": "80"
+    },
+    {
+        "name": "MINT MOJITO",
+        "price": "80"
+    },
+    {
+        "name": "PASSION FRUIT MOJITO",
+        "price": "80"
+    },
+    {
+        "name": "BLACKCURRENT MOJITO",
+        "price": "80"
+    },
+],
+"KARIKKIN SHAKE":[
+    
+    {
+        "name": "KARIKKIN SHAKE",
+        "price": "70"
+    },
+    {
+        "name": "KARIKKIN SHAKE OREO",
+        "price": "100"
+    },
+    {
+        "name": "KARIKKIN CHOCOLATE SHAKE",
+        "price": "100"
+    },
+    {
+        "name": "KARIKKIN BOOST SHAKE",
+        "price": "90"
+    },
+    {
+        "name": "KARIKKIN PISTA SHAKE",
+        "price": "90"
+    },
+    {
+        "name": "KARIKKIN HORLICKS SHAKE",
+        "price": "90"
+    },
+    {
+        "name": "SPICY SPECIAL",
+        "price": "150"
+    }
+],
+"SUNDAE & FALOODA":[
+    {
+        "name": "FALOODA",
+        "price": "140"
+    },
+    {
+        "name": "ROYAL FALOODA",
+        "price": "160"
+    },
+    {
+        "name": "CHOCOLATE SUNDAE",
+        "price": "120"
+    },
+    {
+        "name": "OREO SUNDAE",
+        "price": "140"
+    },
+    {
+        "name": "KITKAT SUNDAE",
+        "price": "140"
+    },
+    {
+        "name": "SNICKERS SUNDAE",
+        "price": "140"
+    },
+    {
+        "name": "FRUIT SALAD WITH ICE CREAM",
+        "price": "110"
+    },
+    {
+        "name": "DRY FRUIT FALOODA",
+        "price": "180"
+    },
+    {
+        "name": "AVIL MILK",
+        "price": "100"
+    },
+    {
+        "name": "TOWER FALOODA",
+        "price": "200"
+    },
+    {
+        "name": "CHOCKO POT",
+        "price": "160"
+    },
+    {
+        "name": "PUTTU ICE CREAM",
+        "price": "300"
+    }
+
+],
+"ICECREAM SHAKE":[
+    {
+        "name": "BUTTER SCOTCH ICE CREAM SHAKE",
+        "price": "110"
+    },
+    {
+        "name": "PISTA ICE CREAM SHAKE",
+        "price": "110"
+    },
+    {
+        "name": "BLACK CURRANT ICE CREAM SHAKE",
+        "price": "110"
+    },
+    {
+        "name": "STRAWBERRY ICE CREAM SHAKE",
+        "price": "100"
+    },
+    {
+        "name": "VANNILA ICE CREAM SHAKE",
+        "price": "100"
+    },
+    {
+        "name": "MANGO ICE CREAM SHAKE",
+        "price": "100"
+    },
+    {
+        "name": "CHOCOLATE ICE CREAM SHAKE",
+        "price": "100"
+    },
+    {
+        "name": "CHOCO STAWBERRY ICE CREAM SHAKE",
+        "price": "120"
+    },
+    {
+        "name": "CHOCO VANILLA ICE CREAM SHAKE",
+        "price": "120"
+    }
+
+],
+"LASSI":[
+    {
+        "name": "SWEET LASSI",
+        "price": "50"
+    },
+    {
+        "name": "MANGO LASSI",
+        "price": "70"
+    },
+    {
+        "name": "VANILLA LASSI",
+        "price": "70"
+    },
+    {
+        "name": "CHOCOLATE LASSI",
+        "price": "70"
+    },
+    {
+        "name": "BLACKCURRANT",
+        "price": "70"
+    },
+    {
+        "name": "ROSE LASSI",
+        "price": "70"
+    },
+    {
+        "name": "FRUIT LASSI",
+        "price": "90"
+    },
+    {
+        "name": "DRY FRUIT LASSI",
+        "price": "110"
+    }
+
+],
+"MILK SHAKE":[
+    {
+        "name": "AVACADO MILK SHAKE",
+        "price": "140"
+    },
+    {
+        "name": "MANGO MILK SHAKE",
+        "price": "80"
+    },
+    {
+        "name": "SHARJAH MILK SHAKE",
+        "price": "90"
+    },
+    {
+        "name": "CHIKOO MILK SHAKE",
+        "price": "80"
+    },
+    {
+        "name": "SHAMAM MILK SHAKE",
+        "price": "80"
+    },
+    {
+        "name": "APPLE MILK SHAKE",
+        "price": "90"
+    },
+    {
+        "name": "ANAR MILK SHAKE",
+        "price": "100"
+    },
+    {
+        "name": "BANANA MILK SHAKE",
+        "price": "80"
+    },
+    {
+        "name": " OREO MILK SHAKE",
+        "price": "90"
+    },
+    {
+        "name": "KITKAT MILK SHAKE",
+        "price": "90"
+    }
+
+],
+"HEALTH CLASSIC":[
+    {
+        "name": "COLD BOOST",
+        "price": "70"
+    },
+    {
+        "name": "COLD HORLICKS",
+        "price": "70"
+    },
+    {
+        "name": "COLD COFFEE",
+        "price": "70"
+    },
+    {
+        "name": "COFFEE LATTE",
+        "price": "90"
+    },
+
+],
+"STARTERS":[
+    {
+        "name": "FRENCH FRIES",
+        "price": "100"
+    },
+    {
+        "name": "CHICKEN LOLLIPOP",
+        "price": "200"
+    },
+    {
+        "name": "PRAWNS GOLDEN FRY",
+        "price": "350"
+    },
+    {
+        "name": "CHICKEN NUGGETS",
+        "price": "200"
+    },
+    {
+        "name": "VEG NUGGETS",
+        "price": "160"
+    },
+    {
+        "name": "FISH FINGERS",
+        "price": "200"
+    },
+    {
+        "name": "DRAGON CHICKEN",
+        "price": "220"
+    }
+
+],
+"SOUP":[
+    {
+        "name": "CLEAR SOUP-VEG",
+        "price": "90"
+    },
+    {
+        "name": "CLEAR SOUP-CHICKEN",
+        "price": "100"
+    },
+    {
+        "name": "HOT & SOUR SOUP-VEG",
+        "price": "90"
+    },
+    {
+        "name": "HOT & SOUR SOUP-CHICKEN",
+        "price": "100"
+    },
+    {
+        "name": "SWEET CORN ",
+        "price": "100"
+    },
+    {
+        "name": "CHICKEN SOUP",
+        "price": "100"
+    }
+],
+"SALADS":[
+    {
+        "name": "CUCUMBER SALAD",
+        "price": "70"
+    },
+    {
+        "name": "GREEN SALAD",
+        "price": "80"
+    },
+    {
+        "name": "GREEK SALAD",
+        "price": "100"
+    },
+    {
+        "name": "MIXED SALAD",
+        "price": "100"
+    }
+
+],
+"CHICKEN DISHES":[
+    {
+        "name": "CHILLLI CHICKEN",
+        "price": "180"
+    },
+    {
+        "name": "BUTTER CHICKEN",
+        "price": "220"
+    },
+    {
+        "name": "GARLIC CHICKEN",
+        "price": "180"
+    },
+    {
+        "name": "GINGER CHICKEN ",
+        "price": "190"
+    },
+    {
+        "name": "PEPPER CHICKEN",
+        "price": "190"
+    },
+    {
+        "name": "KADAI CHICKEN",
+        "price": "200"
+    },
+    {
+        "name": "CHICKEN KONDATTAM",
+        "price": "240"
+    },
+    {
+        "name": "CHICKEN MANCHURIAN",
+        "price": "180"
+    },
+    {
+        "name": "DRAGON CHICKEN",
+        "price": "220"
+    },
+    {
+        "name": "SCHEZWAN CHICKEN",
+        "price": "220"
+    },
+    {
+        "name": "CHICKEN KURMA",
+        "price": "180"
+    },
+    {
+        "name": "CHICKEN ROAST",
+        "price": "160"
+    },
+    {
+        "name": "CHICKEN PERATTU",
+        "price": "180"
+    },
+    {
+        "name": "CHICKEN MASALA",
+        "price": "160"
+    },
+    {
+        "name": "CHICKEN FRY",
+        "price": "160"
+    },
+    {
+        "name": "CHICKEN 65",
+        "price": "200"
+    },
+    {
+        "name": "CHICKEN 85(FUSION-SPICY SPECIAL)",
+        "price": "240"
+    }
+
+],
+"BEEF DISHES":[
+    {
+        "name": "BEEF FRY",
+        "price": "180"
+    },
+    {
+        "name": "NADAN BEEF ROAST",
+        "price": "180"
+    },
+    {
+        "name": "BEEF DRY FRY",
+        "price": "200"
+    },
+    {
+        "name": "BEEF VARATTIYATHU",
+        "price": "200"
+    },
+    {
+        "name": "BEEF CHILLI",
+        "price": "180"
+    },
+    {
+        "name": "BEEF CURRY",
+        "price": "180"
+    },
+    {
+        "name": "BEEF PEPPER FRY",
+        "price": "180"
+    },
+    {
+        "name": "BEEF MASALA",
+        "price": "180"
+    },
+    {
+        "name": "BEEF KONDATTAM",
+        "price": "250"
+    },
+    {
+        "name": "BEEF 85(FUSION-SPICY SPECIAL)",
+        "price": "250"
+    }
+
+],
+"SHAWARMA":[
+    {
+        "name": "RUMALI SHAWARMA",
+        "price": "100"
+    },
+    {
+        "name": "CHEESE SHAWARMA",
+        "price": "110"
+    },
+    {
+        "name": "FULL MEAT SHAWARMA",
+        "price": "140"
+    },
+    {
+        "name": "TIKKA SHAWARMA",
+        "price": "150"
+    },
+    {
+        "name": "CRISPY SHAWARMA",
+        "price": "160"
+    },
+    {
+        "name": "MEXICAN SHAWARMA",
+        "price": "140"
+    },
+    {
+        "name": "FULL MEAT SHAWARMA PLATE",
+        "price": "160"
+    },
+    {
+        "name": "FULL MEAT SHAWARMA ROLL",
+        "price": "140"
+    }
+
+],
+"SHAWAYA":[
+    {
+        "name": "CHICKEN SHAWAYA FULL",
+        "price": "399"
+    },
+    {
+        "name": "CHICKEN SHAWAYA HALF",
+        "price": "220"
+    },
+    {
+        "name": "CHICKEN SHAWAYA QUARTER",
+        "price": "110"
+    }
+],
+"BIRIYANI":[
+    {
+        "name": "CHICKEN BIRIYANI",
+        "price": "140"
+    },
+    {
+        "name": "BEEF BIRIYANI",
+        "price": "130"
+    },
+    {
+        "name": "FISH BIRIYANI",
+        "price": "360"
+    },
+    {
+        "name": "VEG BIRIYANI",
+        "price": "100"
+    },
+
+],
+"ADD ON":[
+    {
+        "name": "BROASTED/PC",
+        "price": "70"
+    },
+    {
+        "name": "GARLIC PASTE",
+        "price": "10"
+    },
+    {
+        "name": "COLSLAW",
+        "price": "20"
+    },
+    {
+        "name": "FRENCH FRIES",
+        "price": "100"
+    },
+    {
+        "name": "BUN/KUBOOS",
+        "price": "10"
+    },
+    {
+        "name": "MAYONNAISE ",
+        "price": "20"
+    }
+
+],
+"AL FAHAM":[
+    {
+        "name": "AL FAHAM PERI PERI FULL",
+        "price": "490"
+    },
+    {
+        "name": "AL FAHAM PERI PERI HALF",
+        "price": "250"
+    },
+    {
+        "name": "AL FAHAM PERI PERI QUARTER",
+        "price": "130"
+    },
+    {
+        "name": "AL FAHAM ARABIC FULL",
+        "price": "450"
+    },
+    {
+        "name": "AL FAHAM ARABIC HALF",
+        "price": "230"
+    },
+    {
+        "name": "AL FAHAM ARABIC QUARTER",
+        "price": "120"
+    },
+    {
+        "name": "AL FAHAM BBQ FULL",
+        "price": "490"
+    },
+    {
+        "name": "AL FAHAM BBQ HALF",
+        "price": "250"
+    },
+    {
+        "name": "AL FAHAM BBQ QUARTER",
+        "price": "130"
+    },
+    {
+        "name": "AL FAHAM HONEY FULL",
+        "price": "499"
+    },
+    {
+        "name": "AL FAHAM HONEY HALF",
+        "price": "260"
+    },
+    {
+        "name": "AL FAHAM HONEY QUARTER",
+        "price": "140"
+    },
+    {
+        "name": "AL FAHAM BUTTER FULL",
+        "price": "550"
+    },
+    {
+        "name": "AL FAHAM BUTTER HALF",
+        "price": "280"
+    },
+    {
+        "name": "AL FAHAM BUTTER QUARTER",
+        "price": "160"
+    },
+    {
+        "name": "AL FAHAM AFGHANI FULL",
+        "price": "480"
+    },
+    {
+        "name": "AL FAHAM AFGHANI HALF",
+        "price": "250"
+    },
+    {
+        "name": "AL FAHAM AFGHANI QUARTER",
+        "price": "130"
+    }
+],
+"SPICY SPECIAL CHICKEN POLLICHATHU":[
+    {
+        "name": "SPICY CHICKEN POLLICHATHU FULL",
+        "price": "480"
+    },
+    {
+        "name": "SPICY CHICKEN POLLICHATHU HALF",
+        "price": "250"
+    },
+    {
+        "name": "SPICY CHICKEN POLLICHATHU QUARTER",
+        "price": "130"
+    },
+
+],
+"MANDI":[
+    {
+        "name": "CHICKEN MANDI FULL",
+        "price": "650"
+    },
+    {
+        "name": "CHICKEN MANDI HALF",
+        "price": "340"
+    },
+    {
+        "name": "CHICKEN MANDI QUARTER",
+        "price": "180"
+    },
+    {
+        "name": "AL FAHAM MANDI FULL",
+        "price": "700"
+    },
+    {
+        "name": "AL FAHAM MANDI HALF",
+        "price": "360"
+    },
+    {
+        "name": "AL FAHAM MANDI QUARTER",
+        "price": "180"
+    },
+    {
+        "name": "BUTTER ALFAHAM MANDI FULL",
+        "price": "750"
+    },
+    {
+        "name": "BUTTER AL FAHAM MANDI HALF",
+        "price": "380"
+    },
+    {
+        "name": "BUTTER AL FAHAM MANDI QUARTER",
+        "price": "200"
+    },
+    {
+        "name": "HONEY AL FAHAM MANDI FULL",
+        "price": "780"
+    },
+    {
+        "name": "HONEY AL FAHAM MANDI HALF",
+        "price": "390"
+    },
+    {
+        "name": "HONEY AL FAHAM MANDI QUARTER",
+        "price": "200"
+    },
+    {
+        "name": "BBQ AL FAHAM MANDI FULL",
+        "price": "730"
+    },
+    {
+        "name": "BBQ AL FAHAM MANDI HALF",
+        "price": "380"
+    },
+    {
+        "name": "BBQ AL FAHAM MANDI QUARTER",
+        "price": "200"
+    },
+    {
+        "name": "PERI PERI AL FAHAM MANDI FULL",
+        "price": "760"
+    },
+    {
+        "name": "PERI PERI AL FAHAM MANDI HALF",
+        "price": "380"
+    },
+    {
+        "name": "PERI PERI AL FAHAM MANDI QUARTER",
+        "price": "200"
+    },
+    {
+        "name": "CHICKEN POLLICHA MANDI FULL",
+        "price": "750"
+    },
+    {
+        "name": "CHICKEN POLLICHA MANDI HALF",
+        "price": "380"
+    },
+    {
+        "name": "CHICKEN POLLICHA MANDI QUARTER",
+        "price": "200"
+    },
+    {
+        "name": "BROASTED MANDI FULL",
+        "price": "720"
+    },
+    {
+        "name": "BROASTED MANDI HALF",
+        "price": "380"
+    },
+    {
+        "name": "BROASTED MANDI QUARTER",
+        "price": "200"
+    },
+    {
+        "name": "SHAWAI MANDI FULL",
+        "price": "700"
+    },
+    {
+        "name": "SHAWAI MANDI HALF",
+        "price": "360"
+    },
+    {
+        "name": "SHAWAI MANDI QUARTER",
+        "price": "180"
+    },
+    {
+        "name": "BEEF VARIYEL MANDI FULL",
+        "price": "800"
+    },
+    {
+        "name": "BEEF VARIYEL MANDI HALF",
+        "price": "420"
+    },
+    {
+        "name": "BEEF VARIYEL MANDI QUARTER",
+        "price": "220"
+    }
+
+],
+"BROASTED":[
+    {
+        "name": "PARTY MEAL ",
+        "price": "1149"
+    },
+    {
+        "name": "FAMILY MEAL",
+        "price": "899"
+    },
+    {
+        "name": "FAMILY PACK",
+        "price": "649"
+    },
+    {
+        "name": "GOLDEN PACK",
+        "price": "499"
+    },
+    {
+        "name": "ROYAL BOX",
+        "price": "349"
+    },
+    {
+        "name": "MINI PACK",
+        "price": "159"
+    }
+
+],
+"CHINEESE":[
+    {
+        "name": "CHICKEN FRIED RICE",
+        "price": "160"
+    },
+    {
+        "name": "EGG FRIED RICE",
+        "price": "130"
+    },
+    {
+        "name": "MIXED FRIED RICE",
+        "price": "200"
+    },
+    {
+        "name": "VEG FRIED RICE",
+        "price": "130"
+    },
+    {
+        "name": "SCHEZWAN FRIED RICE CHICKEN",
+        "price": "200"
+    },
+    {
+        "name": "SCHEZWAN FRIED RICE VEG",
+        "price": "160"
+    },
+    {
+        "name": "PRAWNS FRIED RICE",
+        "price": "380"
+    },
+
+],
+"NOODLES":[
+    {
+        "name": "CHICKEN NOODLES",
+        "price": "170"
+    },
+    {
+        "name": "EGG NOODLES",
+        "price": "150"
+    },
+    {
+        "name": "MIXED NOODLES",
+        "price": "200"
+    },
+    {
+        "name": "VEG NOODLES",
+        "price": "130"
+    },
+    {
+        "name": "SCHEZWAN NOODLES ",
+        "price": "180"
+    },
+    {
+        "name": "SCHEZWAN NOODLES VEG",
+        "price": "150"
+    },
+    {
+        "name": "MIXED NOODLES",
+        "price": "200"
+    },
+    {
+        "name": "PRAWNS NOODLES",
+        "price": "380"
+    }
+
+],
+"PASTA":[
+    {
+        "name": "CHICKEN PASTA",
+        "price": "200"
+    },
+    {
+        "name": "VEG PASTA",
+        "price": "180"
+    },
+    {
+        "name": "SEA FOOD PASTA",
+        "price": "280"
+    },
+
+],
+"CHOPUSEY":[
+    {
+        "name": "AMERICAN CHOPSUEY",
+        "price": "240"
+    },
+    {
+        "name": "SEA FOOD CHOPSUEY",
+        "price": "280"
+    },
+    {
+        "name": "VEG CHOPSUEY",
+        "price": "180"
+    },
+    {
+        "name": "CHINESE CHOPSUEY",
+        "price": "240"
+    }
+
+],
+"SEA FOOD":[
+    {
+        "name": "FISH CURRY/FISH FRY/FISH MASALA",
+        "price": "AS PER SIZE"
+    },
+    {
+        "name": "GRILL FISH",
+        "price": "AS PER SIZE"
+    },
+    {
+        "name": "FISH POLLICHATHU/FISH TAWA FRY",
+        "price": "AS PER SIZE"
+    },
+    {
+        "name": "KING FISH(MASALA/ROAST/FRY)",
+        "price": "AS PER SIZE"
+    },
+    {
+        "name": "KARIMEEN(MASALA/ROAST/FRY)",
+        "price": "AS PER SIZE"
+    },
+    {
+        "name": "PRAWNS(MASALA/ROAST/FRY)",
+        "price": "AS PER SIZE"
+    },
+    {
+        "name": "SQUID(ROAST/PEPPER FRY)",
+        "price": "AS PER SIZE"
+    },
+    {
+        "name": "CRAB(VARUTHATHU/PEPPER FRY/ROAST)",
+        "price": "AS PER SIZE"
+    },
+    {
+        "name": "KARIMEEN POLLICHATHU",
+        "price": "AS PER SIZE"
+    },
+    {
+        "name": "PRAWNS ULARTHIYATHU",
+        "price": "AS PER SIZE"
+    }
+
+],
+"VEGETARIAN":[
+    {
+        "name": "TOMATO FRY",
+        "price": "100"
+    },
+    {
+        "name": "VEG KURUMA",
+        "price": "120"
+    },
+    {
+        "name": "VEG STEW",
+        "price": "140"
+    },
+    {
+        "name": "MUSHROOM MASALA",
+        "price": "190"
+    },
+    {
+        "name": "PANEER BUTTER MASALA",
+        "price": "200"
+    },
+    {
+        "name": "KADAI PANEER",
+        "price": "200"
+    },
+    {
+        "name": "CHILLI GOBI",
+        "price": "150"
+    },
+    {
+        "name": "GOBI MANCHURIAN",
+        "price": "150"
+    },
+    {
+        "name": "MUSHROOM MANCHURIAN",
+        "price": "170"
+    },
+    {
+        "name": "PANEER MANCHURIAN",
+        "price": "200"
+    },
+    {
+        "name": "CHILLY MUSHROOM",
+        "price": "170"
+    },
+    {
+        "name": "CHILLY PANEER",
+        "price": "180"
+    }
+],
+"BREAD":[
+    {
+        "name": "KERALA PAROTTA",
+        "price": "12"
+    },
+    {
+        "name": "NOOL PAROTTA",
+        "price": "20"
+    },
+    {
+        "name": "BUN PAROTTA",
+        "price": "20"
+    },
+    {
+        "name": "WHEAT PAROTTA",
+        "price": "20"
+    },
+    {
+        "name": "CHAPPATHI",
+        "price": "10"
+    },
+    {
+        "name": "KUBOOS",
+        "price": "10"
+    },
+    {
+        "name": "RUMALI ROTI",
+        "price": "20"
+    }
+
+],
+"RICE":[
+    {
+        "name": "KERALA MEALS",
+        "price": "90"
+    },
+    {
+        "name": "RICE PLAIN BASMATI",
+        "price": "90"
+    },
+    {
+        "name": "GHEE RICE",
+        "price": "130"
+    },
+    {
+        "name": "JEERA RICE",
+        "price": "130"
+    },
+    {
+        "name": "PULAVU VEG",
+        "price": "130"
+    },
+    {
+        "name": "PULAVU CHICKEN",
+        "price": "160"
+    }
+
+],
+"DESSERT":[
+    {
+        "name": "CHOCOLATE BALL",
+        "price": "120"
+    },
+    {
+        "name": "CHOCOLATE ICE CREAM",
+        "price": "80"
+    },
+    {
+        "name": "BUTTER SCOTCH CHOCO NUT",
+        "price": "120"
+    },
+    {
+        "name": "FRUIT SALAD WITH ICE CREAM",
+        "price": "110"
+    },
+    {
+        "name": "SINNGLE SCOOP ICE CREAM",
+        "price": "30"
+    },
+    {
+        "name": "DOUBLE SCOOP ICE CREAM",
+        "price": "60"
+    },
+    {
+        "name": "CHOCO POT",
+        "price": "160"
+    },
+    {
+        "name": "MONSTER CUP",
+        "price": "220"
+    }
+
+]
